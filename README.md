@@ -3,11 +3,7 @@
 👨 Pronouns: He/Him
 🌱 Current exploration: Non-negative matrix factorization of music samples, CNN classifcation of instruments
 🔭 Interests: Machine learning, biotechnology, and more!
-<div id="badges">
-  <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 
 <!--

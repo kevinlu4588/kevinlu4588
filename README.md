@@ -1,6 +1,39 @@
 ### Hi there 😄
 
-Interests: getting lit.
+👨 Pronouns: He/Him
+🌱 Current exploration: Non-negative matrix factorization of music samples, CNN classifcation of instruments
+🔭 Interests: Machine learning, biotechnology, and more!
+
+                                                         .
+                                              .         ;  
+                 .              .              ;%     ;;   
+                   ,           ,                :;%  %;   
+                    :         ;                   :;%;'     .,   
+           ,.        %;     %;            ;        %;'    ,;
+             ;       ;%;  %%;        ,     %;    ;%;    ,%'
+              %;       %;%;      ,  ;       %;  ;%;   ,%;' 
+               ;%;      %;        ;%;        % ;%;  ,%;'
+                `%;.     ;%;     %;'         `;%%;.%;'
+                 `:;%.    ;%%. %@;        %; ;@%;%'
+                    `:%;.  :;bd%;          %;@%;'
+                      `@%:.  :;%.         ;@@%;'   
+                        `@%.  `;@%.      ;@@%;         
+                          `@%%. `@%%    ;@@%;        
+                            ;@%. :@%%  %@@%;       
+                              %@bd%%%bd%%:;     
+                                #@%%%%%:;;
+                                %@@%%%::;
+                                %@@@%(o);  . '         
+                                %@@@o%;:(.,'         
+                            `.. %@@@o%::;         
+                               `)@@@o%::;         
+                                %@@(o)::;        
+                               .%@@@@%::;         
+                               ;%@@@@%::;.          
+                              ;%@@@@%%:;;;. 
+                          ...;%@@@@@%%:;;;;,..    Credit to: Gilo97
+
+
 
 <!--
 **kevinlu4588/kevinlu4588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

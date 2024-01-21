@@ -2,7 +2,7 @@
 
 👨 Pronouns: He/Him\
 🌱 Current exploration: Non-negative matrix factorization of music samples, CNN classifcation of instruments\
-🔭 Interests: Machine learning, biotechnology, and more!\
+🔭 Interests: Machine learning, biotechnology, music, and more!\
 📫 How to reach me:
   
   

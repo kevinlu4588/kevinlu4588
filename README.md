@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/kevin-lu-4588-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-![Email me](mailto:your.email@gmail.com)
 <!--
 **kevinlu4588/kevinlu4588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

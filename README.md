@@ -1,8 +1,7 @@
 ### Hi there 😄
 
-👨 Pronouns: He/Him\
-🌱 Current exploration: Non-negative matrix factorization of music samples, CNN classifcation of instruments\
-🔭 Interests: Machine learning, biotechnology, music, and more!\
+🌱 Current exploration: SAEs for antibody drug discovery steering and other AI interpretability methods in biology!
+🔭 Interests: Mechanistic interpretability, concept erasure, and manifold learning
 📫 How to reach me:
   
   

@@ -1,7 +1,9 @@
 ### Hi there 😄
 
-🌱 Current exploration: SAEs for antibody drug discovery steering and other AI interpretability methods in biology!
+🌱 Current exploration: SAEs for antibody drug discovery steering, LogitLens for protein folding
+
 🔭 Interests: Mechanistic interpretability, concept erasure, and manifold learning
+
 📫 How to reach me:
   
   

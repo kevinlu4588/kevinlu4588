@@ -4,10 +4,10 @@
 
 🔭 Interests: Mechanistic interpretability, concept erasure, and manifold learning
 
+ <a href="https://kevinlu4588.github.io/">Personal Website</a>
+
 📫 How to reach me:
-  
-  <a href="https://kevinlu4588.github.io/">
-    
+      
   <a href="https://www.linkedin.com/in/kevinlu4588/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

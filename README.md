@@ -6,8 +6,9 @@
 
 📫 How to reach me:
   
-  
-  <a href="https://www.linkedin.com/in/kevin-lu-4588-/">
+  <a href="https://kevinlu4588.github.io/">
+    
+  <a href="https://www.linkedin.com/in/kevinlu4588/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--
